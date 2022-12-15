@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "wateraiCamera",
+    "slug": "wateraiCamera",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  },
+  "name": "wateraiCameraAuto"
+}
